@@ -1,6 +1,6 @@
-- [ ] Establish FRAMEFLOW design tokens and shell
-- [ ] Build overview, projects, and project production workspace
-- [ ] Build visual asset, character, location, room, and prop flows
-- [ ] Build story, scene, shot, compiler, generation, and storyboard flows
-- [ ] Build continuity, relationships, history, command palette, and Production AI
-- [ ] Verify navigation, interactions, responsive layout, and build health
+- [x] Establish FRAMEFLOW design tokens and shell
+- [x] Build overview, projects, and project production workspace
+- [x] Build visual asset, character, location, room, and prop flows
+- [x] Build story, scene, shot, compiler, generation, and storyboard flows
+- [x] Build continuity, relationships, history, command palette, and Production AI
+- [x] Verify navigation, interactions, responsive layout, and build health
