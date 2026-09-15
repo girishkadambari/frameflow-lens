@@ -4,3 +4,7 @@
 - [x] Build story, scene, shot, compiler, generation, and storyboard flows
 - [x] Build continuity, relationships, history, command palette, and Production AI
 - [x] Verify navigation, interactions, responsive layout, and build health
+- [ ] Refactor FRAMEFLOW into focused feature components
+- [ ] Centralize shared types and mock production data
+- [ ] Add a replaceable mock service boundary for future backend integration
+- [ ] Verify unchanged behavior, responsive layout, and build health
